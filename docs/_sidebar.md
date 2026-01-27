@@ -5,4 +5,5 @@
   - [命令与查询](commandAndQuery.md)
   - [事件系统](events.md)
 - **未整理QF源文档**
-  - [架构组件](qfdoc.md)
+  - [qfdoc](qfdoc.md)
+
